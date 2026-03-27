@@ -2,6 +2,7 @@
 <table_of_content>
     <project_name>Documentation Test Project</project_name>
     <project_description>This is a test project for the documentation test project.</project_description>
+    <folder_depth>1</folder_depth>
     <version>1.0.0</version>
     <structure>
         <section>
