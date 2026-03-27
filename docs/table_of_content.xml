@@ -26,5 +26,13 @@
                 <path>docs/advanced-test/configuration.md</path>
             </page>
         </section>
+        <section>
+            <title>Basic</title>
+            <page>
+                <title>Basic Test</title>
+                <order>1</order>
+                <path>docs/basics/basics.md</path>
+            </page>
+        </section>
     </structure>
 </table_of_content>
