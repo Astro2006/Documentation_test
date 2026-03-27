@@ -35,3 +35,12 @@
 
 ### Troubleshooting
 1. Common Issues (order: 1) - `docs/troubleshooting/common-issues.md` - [Open](docs/troubleshooting/common-issues.md)
+
+### Playground
+1. Markdown Overview (order: 1) - `docs/playground/markdown-overview.md` - [Open](docs/playground/markdown-overview.md)
+2. Tables & Data (order: 2) - `docs/playground/tables-and-data.md` - [Open](docs/playground/tables-and-data.md)
+3. Quotes & Callouts (order: 3) - `docs/playground/quotes-and-callouts.md` - [Open](docs/playground/quotes-and-callouts.md)
+4. Laravel Snippets (order: 4) - `docs/playground/laravel-snippets.md` - [Open](docs/playground/laravel-snippets.md)
+5. Mermaid Diagrams (order: 5) - `docs/playground/mermaid-diagrams.md` - [Open](docs/playground/mermaid-diagrams.md)
+6. HTML & Embeds (order: 6) - `docs/playground/html-and-embeds.md` - [Open](docs/playground/html-and-embeds.md)
+7. Footnotes & Anchors (order: 7) - `docs/playground/footnotes-and-anchors.md` - [Open](docs/playground/footnotes-and-anchors.md)
