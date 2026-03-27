@@ -10,7 +10,7 @@
             <page>
                 <title>About Us</title>
                 <order>1</order>
-                <path>docs/introduction/aboutus.md</path>
+                <path>docs/introduction/about-us.md</path>
             </page>
             <page>
                 <title>Getting Started</title>
