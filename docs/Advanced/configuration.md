@@ -1,6 +1,6 @@
 This is a test!! just some copied markdown
 
-[](https://test.be) is a webdesign agency based in , .
+[](https://test.be) is a webdesign agency based in ,
 
 Open source software is used in all projects we deliver. Laravel, Nginx, Ubuntu are just a few
 of the free pieces of software we use every single day. For this, we are very grateful.
