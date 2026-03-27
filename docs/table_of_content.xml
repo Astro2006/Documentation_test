@@ -1,0 +1,17 @@
+<table_of_content>
+    <project_name>Documentation Test Project</project_name>
+    <version>1.0.0</version>
+    <folder_depth>1</folder_depth>
+    <content>
+
+        <section>
+            <title>Introduction</title>
+            <page>
+                <title>Introduction</title>
+                <order>1</order>
+                <path>docs/introduction/introduction.md</path>
+            </page>
+        </section>
+
+    </content>
+</table_of_content>
