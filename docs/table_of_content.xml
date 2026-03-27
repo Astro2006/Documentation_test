@@ -23,7 +23,7 @@
             <page>
                 <title>Configuration</title>
                 <order>1</order>
-                <path>docs/advanced/configuration.md</path>
+                <path>docs/advanced-test/configuration.md</path>
             </page>
         </section>
     </structure>
