@@ -4,7 +4,7 @@
 - Project Name: Documentation Test Project
 - Project Description: This is a test project for the documentation test project.
 - Folder Depth: 1
-- Version: 2.0.1
+- Version: 3.0.1
 
 ## Structure
 
